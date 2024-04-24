@@ -1,3 +1,3 @@
-# stackblitz-starters-5swffs
+# Managing Packages With npm
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/bcrhbrhcdb/stackblitz-starters-5swffs)
+This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/
